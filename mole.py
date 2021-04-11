@@ -92,4 +92,4 @@ client.add_command(web)
 client.add_command(dict)
 client.add_command(wiki)
 
-client.run("ODA3NzQ1MDU4OTIwMjAyMjUw.YB8dNQ.nd31xSLJuU-8Qpmi1y8sIw23dVs")
+client.run("imagine trying to steal my token lmao")
