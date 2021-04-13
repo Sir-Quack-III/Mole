@@ -92,4 +92,4 @@ client.add_command(web)
 client.add_command(dict)
 client.add_command(wiki)
 
-client.run("ODA3NzQ1MDU4OTIwMjAyMjUw.YB8dNQ.0pYFaJRhZ9_25tKCZQoCTkxtF2k")
+client.run("insert token here")
